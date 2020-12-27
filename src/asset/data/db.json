@@ -1,0 +1,141 @@
+{
+    "product": [
+        {
+            "product_id": 1,
+            "name": "Black off the night",
+            "price": 220,
+            "color": "pink",
+            "image": "https://images6.fanpop.com/image/photos/41600000/Adidas-Originals-Korea-Shares-Photos-of-BLACKPINK-black-pink-41611425-730-730.jpg",
+            "material": "Cotton",
+            "description": "Qua Dang Cap",
+            "id_type": 1,
+            "count_favor": 1
+        },
+        {
+            "product_id": 2,
+            "name": "Black off the moon",
+            "price": 254,
+            "color": "yellow",
+            "image": "https://i.pinimg.com/originals/e5/1b/0f/e51b0fda583dd03d898208efca87f62d.jpg",
+            "material": "Cotton",
+            "description": "Qua Dang Cap",
+            "id_type": 1,
+            "count_favor": 1
+        },
+        {
+            "product_id": 3,
+            "name": "Black Mixi",
+            "price": 150,
+            "color": "black",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRl8RAlhuoyYIukBzfPHajBAR6-yniAmUZpSA&usqp=CAU",
+            "material": "Cotton",
+            "description": "Qua Dang Cap",
+            "id_type": 1,
+            "count_favor": 1
+        },
+        {
+            "product_id": 4,
+            "name": "Mixi dress",
+            "price": 124,
+            "color": "blue",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSO72QCMZdrPp202N7dLlwaJGm41eJYGwn6xQ&usqp=CAU",
+            "material": "Cotton",
+            "description": "Qua Dang Cap",
+            "id_type": 1,
+            "count_favor": 1
+        },
+        {
+            "product_id": 5,
+            "name": "Black Pink in your area",
+            "price": 300,
+            "color": "gray",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3TcsKZlYSMBiNv1b6AqFoO3qrsR0F3QMi6g&usqp=CAU",
+            "material": "Cotton",
+            "description": "Qua Dang Cap",
+            "id_type": 1,
+            "count_favor": 1
+        },
+        {
+            "product_id": 6,
+            "name": "Dresro xara",
+            "price": 220,
+            "color": "red",
+            "image": "https://images6.fanpop.com/image/photos/41600000/Adidas-Originals-Korea-Shares-Photos-of-BLACKPINK-black-pink-41611425-730-730.jpg",
+            "material": "Cotton",
+            "description": "Qua Dang Cap",
+            "id_type": 1,
+            "count_favor": 1
+        },
+        {
+            "product_id": 7,
+            "name": "Litte abs",
+            "price": 254,
+            "color": "red",
+            "image": "https://i.pinimg.com/originals/e5/1b/0f/e51b0fda583dd03d898208efca87f62d.jpg",
+            "material": "Cotton",
+            "description": "Qua Dang Cap",
+            "id_type": 1,
+            "count_favor": 1
+        },
+        {
+            "product_id": 8,
+            "name": "Black cool",
+            "price": 150,
+            "color": "blue",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRl8RAlhuoyYIukBzfPHajBAR6-yniAmUZpSA&usqp=CAU",
+            "material": "Cotton",
+            "description": "Qua Dang Cap",
+            "id_type": 1,
+            "count_favor": 1
+        },
+        {
+            "product_id": 9,
+            "name": "Bla night",
+            "price": 124,
+            "color": "white",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSO72QCMZdrPp202N7dLlwaJGm41eJYGwn6xQ&usqp=CAU",
+            "material": "Cotton",
+            "description": "Qua Dang Cap",
+            "id_type": 1,
+            "count_favor": 1
+        },
+        {
+            "product_id": 10,
+            "name": "Black Pr area",
+            "price": 300,
+            "color": "red",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3TcsKZlYSMBiNv1b6AqFoO3qrsR0F3QMi6g&usqp=CAU",
+            "material": "Cotton",
+            "description": "Qua Dang Cap",
+            "id_type": 1,
+            "count_favor": 1
+        }
+    ],
+    "product_type": [
+        {
+            "type_id": 1,
+            "type_name": "Quần áo thể thao",
+            "brand": "adidas"
+        },
+        {
+            "type_id": 2,
+            "type_name": "Váy công sở",
+            "brand": "Gucci"
+        },
+        {
+            "type_id": 3,
+            "type_name": "Quần áo Vinahouse",
+            "brand": "khabanh"
+        },
+        {
+            "type_id": 4,
+            "type_name": "Đầm dạ hội",
+            "brand": "dress"
+        },
+        {
+            "type_id": 5,
+            "type_name": "Quần áo ngủ",
+            "brand": "adidas"
+        }
+    ]
+}
